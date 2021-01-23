@@ -26,10 +26,10 @@
 Proof of concept where a fully functional progressive web app to increase online audience conversion rate, and to provide better online shopping experience during the pandemic.  
 Hosted with serverless platform, code with React frame work, material ui for frontend components and react-redux for global state management. Check out the demo repository for all the technical informations.  (Coming soon)
 
-[Image Classification](https://github.com/MingSheng92/Image_Classification)
+[Image Classification](https://github.com/MingSheng92/Image_Classification)  
 Image classification library with 3 different machine learning algorithms with comparison.
 
-[Recommender System](https://github.com/MingSheng92/RecommenderSystem)
+[Recommender System](https://github.com/MingSheng92/RecommenderSystem)  
 stacked autoencoders recommender system with Tensorflow.
 
 ➡️ [For more projects feel free to check out my public repositories...](https://github.com/MingSheng92?tab=repositories)
