@@ -11,6 +11,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build and deploy react app on Firebase in 2021](https://medium.com/@cming0721/build-and-deploy-react-app-on-firebase-in-2021-80b37cc52707?source=rss-910b8f123adb------2)
+- [Build and deploy React on Serverless backend Platform [Part 1]](https://medium.com/@cming0721/build-and-deploy-react-on-serverless-backend-platform-part-1-c60d8222e907?source=rss-910b8f123adb------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://cming0721.medium.com/)
