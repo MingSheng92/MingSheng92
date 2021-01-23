@@ -20,6 +20,12 @@
 
 Landing page, online store, and ddmin Panel for a local bakery supply store. 
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Ming Sheng's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MingSheng92&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: https://mingsheng92.github.io/
 [linkedin]: https://www.linkedin.com/in/ming-sheng-choo-91712691/
