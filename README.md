@@ -1,6 +1,12 @@
 
 ## I'm a developer looking for a job.
 
+### 2021 Resolutions:
+
+1. Planning to work on some NLP or Music related machine learning project.
+2. Contribute to open source projects
+3. REACT!
+
 ### Connect with me:
 
 [<img align="left" alt="https://mingsheng92.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -24,7 +30,8 @@
 [Landing page](https://www.mymringredient.com/)  
 [Online Ordering App](https://store.mymringredient.com/)  
 Proof of concept where a fully functional progressive web app to increase online audience conversion rate, and to provide better online shopping experience during the pandemic.  
-Hosted with serverless platform, code with React frame work, material ui for frontend components and react-redux for global state management. Check out the demo repository for all the technical informations.  (Coming soon)
+Hosted with serverless platform, code with React frame work, material ui for frontend components and react-redux for global state management, paired with react-helmet for SEO.    
+Check out the demo repository for all the technical informations.  (Coming soon)
 
 [Image Classification](https://github.com/MingSheng92/Image_Classification)  
 Image classification library with 3 different machine learning algorithms with comparison.
