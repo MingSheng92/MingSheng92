@@ -17,6 +17,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a basic landing page with React](https://medium.com/@cming0721/building-a-basic-landing-page-with-react-576d50d985f2?source=rss-910b8f123adb------2)
 - [Build and deploy react app on Firebase in 2021](https://medium.com/@cming0721/build-and-deploy-react-app-on-firebase-in-2021-80b37cc52707?source=rss-910b8f123adb------2)
 - [Build and deploy React on Serverless backend Platform [Part 1]](https://medium.com/@cming0721/build-and-deploy-react-on-serverless-backend-platform-part-1-c60d8222e907?source=rss-910b8f123adb------2)
 <!-- BLOG-POST-LIST:END -->
