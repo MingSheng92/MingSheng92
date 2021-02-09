@@ -54,4 +54,4 @@ Visualize data with Tableau/PowerBI/Python
 [ReactLearning]: https://cming0721.medium.com/
 
 <empty line>
-[img align="left" alt="https://mingsheng92.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />website]
+[whatever]:[<img align="left" alt="https://mingsheng92.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
