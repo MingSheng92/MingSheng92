@@ -52,6 +52,3 @@ Visualize data with Tableau/PowerBI/Python
 [website]: https://mingsheng92.github.io/
 [linkedin]: https://www.linkedin.com/in/ming-sheng-choo-91712691/
 [ReactLearning]: https://cming0721.medium.com/
-
-<empty line>
-[whatever]:[<img align="left" alt="https://mingsheng92.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
