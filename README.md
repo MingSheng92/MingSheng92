@@ -40,7 +40,7 @@ Image classification library with 3 different machine learning algorithms with c
 [Recommender System](https://github.com/MingSheng92/RecommenderSystem)  
 stacked autoencoders recommender system with Tensorflow.
 
-[Visualization Challenge](https://github.com/MingSheng92/VisualizationChallenge)
+[Visualization Challenge](https://github.com/MingSheng92/VisualizationChallenge)  
 Visualize data with Tableau/PowerBI/Python
 
 ➡️ [For more projects feel free to check out my public repositories...](https://github.com/MingSheng92?tab=repositories)
