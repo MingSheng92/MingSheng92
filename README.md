@@ -30,8 +30,7 @@
 [Landing page](https://www.mymringredient.com/)  
 [Online Ordering App](https://store.mymringredient.com/)  
 Proof of concept where a fully functional progressive web app to increase online audience conversion rate, and to provide better online shopping experience during the pandemic.
-
-Hosted with serverless platform, code with React frame work, material ui for frontend components and react-redux for global state management, paired with react-helmet for SEO.    
+Hosted with serverless platform, written with React framework, material ui for frontend components and react-redux for global state management, paired with react-helmet for SEO.    
 Check out the [demo repository](https://github.com/MingSheng92/LocalRetailStoreProject/blob/main/README.md) for full break down. 
 
 [Image Classification](https://github.com/MingSheng92/Image_Classification)  
