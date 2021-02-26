@@ -1,5 +1,5 @@
 
-## I'm a developer looking for a job.
+## I'm a developer Actively seeking new opportunities.
 
 ### 2021 Resolutions:
 
