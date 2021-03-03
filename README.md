@@ -36,11 +36,11 @@ Check out the [demo repository](https://github.com/MingSheng92/LocalRetailStoreP
 [Image Classification](https://github.com/MingSheng92/Image_Classification)  
 Image classification library with 3 different machine learning algorithms with comparison.
 
-[Recommender System](https://github.com/MingSheng92/RecommenderSystem)  
-stacked autoencoders recommender system with Tensorflow.
+[Deep Stacked Autoencoders Recommender System](https://github.com/MingSheng92/RecommenderSystem)  
+Led a research project on recommender system with Deep stacked autoencoders in tensorflow.
 
 [Visualization Challenge](https://github.com/MingSheng92/VisualizationChallenge)  
-Visualize data with Tableau/PowerBI/Python
+To create various visualization with raw datas with PowerBI/Python/Tebleau
 
 ➡️ [For more projects feel free to check out my public repositories...](https://github.com/MingSheng92?tab=repositories)
 
