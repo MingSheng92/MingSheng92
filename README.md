@@ -16,6 +16,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram feeds with Instagram API : Part 2 Basic Display API with React](https://medium.com/@cming0721/instagram-feeds-with-instagram-api-part-2-basic-display-api-with-react-f0c6dfcc576c?source=rss-910b8f123adb------2)
 - [Instagram feeds with Instagram API : Part 1 Create App and Token](https://medium.com/@cming0721/instagram-feeds-with-instagram-api-part-1-create-app-and-token-4a91ee3bd154?source=rss-910b8f123adb------2)
 - [Building a basic landing page with React](https://medium.com/@cming0721/building-a-basic-landing-page-with-react-576d50d985f2?source=rss-910b8f123adb------2)
 - [Build and deploy react app on Firebase in 2021](https://medium.com/@cming0721/build-and-deploy-react-app-on-firebase-in-2021-80b37cc52707?source=rss-910b8f123adb------2)
