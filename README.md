@@ -28,7 +28,7 @@
 
 ### My projects 
 
-#### Dynamic Loading of multiple dashboards 
+#### Dynamic Loading Tableau Dashboard widget
 Volunteered work for UNDP, designed and created an Elementor custom widget, to increase efficiency for site maintainer when creating dashboards tabs effortlessly. <br />
 [Elementor custom widget](https://github.com/MingSheng92/Elementor-Tableau-Widget) <br />
 [Site](https://data.undp.org/content/covid-19-stock-market-impact/) <br />
