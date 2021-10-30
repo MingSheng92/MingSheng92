@@ -51,10 +51,8 @@ To create various visualization with raw datas with PowerBI/Python/Tebleau
 
 ➡️ [For more projects feel free to check out my public repositories...](https://github.com/MingSheng92?tab=repositories)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Ming Sheng's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MingSheng92&show_icons=true&hide_border=true" />
-</details>
+Google Cloud certs: 
+https://www.cloudskillsboost.google/public_profiles/0d46af05-d6cf-439f-bef2-ef8328e53895?qlcampaign=1m-skills-tp-10%3A%3AQuV6D-UIjeATDCv4sFQ02A
 
 [website]: https://mingsheng92.github.io/
 [linkedin]: https://www.linkedin.com/in/ming-sheng-choo-91712691/
