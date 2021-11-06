@@ -12,6 +12,7 @@
 [<img align="left" alt="Ming Sheng Choo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+<br />
 
 Google Cloud Badges: <br />
 https://www.cloudskillsboost.google/public_profiles/0d46af05-d6cf-439f-bef2-ef8328e53895?qlcampaign=1m-skills-tp-10%3A%3AQuV6D-UIjeATDCv4sFQ02A
