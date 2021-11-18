@@ -20,11 +20,11 @@ https://www.cloudskillsboost.google/public_profiles/0d46af05-d6cf-439f-bef2-ef83
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Image Recognition with Convolutional Neural Network in Tensorflow](https://cming0721.medium.com/image-recognition-with-convolutional-neural-network-in-tensorflow-b042e2d7c7f0?source=rss-910b8f123adb------2)
 - [Create To-Do list with Alpine.js](https://javascript.plainenglish.io/create-to-do-list-with-alpine-js-2fc15125dc74?source=rss-910b8f123adb------2)
 - [Instagram feeds with Instagram API : Part 2 Basic Display API with React](https://cming0721.medium.com/instagram-feeds-with-instagram-api-part-2-basic-display-api-with-react-f0c6dfcc576c?source=rss-910b8f123adb------2)
 - [Instagram feeds with Instagram API : Part 1 Create App and Token](https://cming0721.medium.com/instagram-feeds-with-instagram-api-part-1-create-app-and-token-4a91ee3bd154?source=rss-910b8f123adb------2)
 - [Building a basic landing page with React](https://cming0721.medium.com/building-a-basic-landing-page-with-react-576d50d985f2?source=rss-910b8f123adb------2)
-- [Build and deploy react app on Firebase in 2021](https://cming0721.medium.com/build-and-deploy-react-app-on-firebase-in-2021-80b37cc52707?source=rss-910b8f123adb------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://cming0721.medium.com/)
