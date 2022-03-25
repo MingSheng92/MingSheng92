@@ -1,12 +1,6 @@
 
 ## I'm a developer Actively seeking new opportunities.
 
-### 2021 Resolutions:
-
-1. Planning to work on some NLP or Music related machine learning project.
-2. Contribute to open source projects
-3. REACT!
-
 ### Connect with me:
 
 [<img align="left" alt="Ming Sheng Choo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
