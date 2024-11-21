@@ -1,6 +1,3 @@
-
-## I'm a developer Actively seeking new opportunities.
-
 ### Connect with me:
 
 [<img align="left" alt="Ming Sheng Choo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
