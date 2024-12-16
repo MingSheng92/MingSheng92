@@ -23,8 +23,9 @@ Google Cloud Badges: [Link](https://www.cloudskillsboost.google/public_profiles/
 
 ### My projects 
 
-#### [LMSYS---Chatbot-Arena-Human-Preference-Predictions](https://github.com/MingSheng92/LMSYS---Chatbot-Arena-Human-Preference-Predictions)
+#### LMSYS-Chatbot-Arena-Human-Preference-Predictions
 In this competition, we are challenged to predict which responses users will prefer in a head-to-head battle between chatbots powered by large language models (LLMs).
+[Link to project](https://github.com/MingSheng92/LMSYS---Chatbot-Arena-Human-Preference-Predictions)
 
 #### Dynamic Loading Tableau Dashboard widget
 Volunteered work for UNDP, designed and created an Elementor custom widget, to increase efficiency for site maintainer when creating dashboards tabs effortlessly. <br />
