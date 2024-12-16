@@ -5,8 +5,23 @@
 <br />
 <br />
 
-Leetcode Profile: [Link](https://leetcode.com/mingshengAi1105/) <br />
-Google Cloud Badges: [Link](https://www.cloudskillsboost.google/public_profiles/0d46af05-d6cf-439f-bef2-ef8328e53895?qlcampaign=1m-skills-tp-10%3A%3AQuV6D-UIjeATDCv4sFQ02A)<br />
+### My projects 
+
+#### LMSYS-Chatbot-Arena-Human-Preference-Predictions
+In this competition, we are challenged to predict which responses users will prefer in a head-to-head battle between chatbots powered by large language models (LLMs).
+[Link to project](https://github.com/MingSheng92/LMSYS---Chatbot-Arena-Human-Preference-Predictions)
+
+#### Dynamic Loading Tableau Dashboard widget
+Volunteered work for UNDP, designed and created an Elementor custom widget, to increase efficiency for site maintainer when creating dashboards tabs effortlessly. <br />
+[Elementor custom widget](https://github.com/MingSheng92/Elementor-Tableau-Widget) <br />
+[Site](https://data.undp.org/insights/covid-19-stockmarket-impact) <br />
+
+#### Landing page, online store, and admin Panel for a local bakery supply store. 
+Proof of concept where a fully functional progressive web app to increase online audience conversion rate, and to provide better online shopping experience during the pandemic.
+Hosted with serverless platform, written with React framework, material ui for frontend components and react-redux for global state management, paired with react-helmet for SEO.    
+Check out the [demo repository](https://github.com/MingSheng92/LocalRetailStoreProject/blob/main/README.md) for full break down. 
+
+➡️ [For more projects feel free to check out my public repositories...](https://github.com/MingSheng92?tab=repositories)
 
 ### 📕 Latest Blog Posts
 
@@ -19,25 +34,6 @@ Google Cloud Badges: [Link](https://www.cloudskillsboost.google/public_profiles/
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://cming0721.medium.com/)
-
-
-### My projects 
-
-#### LMSYS-Chatbot-Arena-Human-Preference-Predictions
-In this competition, we are challenged to predict which responses users will prefer in a head-to-head battle between chatbots powered by large language models (LLMs).
-[Link to project](https://github.com/MingSheng92/LMSYS---Chatbot-Arena-Human-Preference-Predictions)
-
-#### Dynamic Loading Tableau Dashboard widget
-Volunteered work for UNDP, designed and created an Elementor custom widget, to increase efficiency for site maintainer when creating dashboards tabs effortlessly. <br />
-[Elementor custom widget](https://github.com/MingSheng92/Elementor-Tableau-Widget) <br />
-[Site](https://data.undp.org/country/moldova/) <br />
-
-#### Landing page, online store, and admin Panel for a local bakery supply store. 
-Proof of concept where a fully functional progressive web app to increase online audience conversion rate, and to provide better online shopping experience during the pandemic.
-Hosted with serverless platform, written with React framework, material ui for frontend components and react-redux for global state management, paired with react-helmet for SEO.    
-Check out the [demo repository](https://github.com/MingSheng92/LocalRetailStoreProject/blob/main/README.md) for full break down. 
-
-➡️ [For more projects feel free to check out my public repositories...](https://github.com/MingSheng92?tab=repositories)
 
 
 [website]: https://mingsheng92.github.io/
