@@ -23,30 +23,21 @@ Google Cloud Badges: [Link](https://www.cloudskillsboost.google/public_profiles/
 
 ### My projects 
 
+#### [LMSYS---Chatbot-Arena-Human-Preference-Predictions](https://github.com/MingSheng92/LMSYS---Chatbot-Arena-Human-Preference-Predictions)
+In this competition, we are challenged to predict which responses users will prefer in a head-to-head battle between chatbots powered by large language models (LLMs).
+
 #### Dynamic Loading Tableau Dashboard widget
 Volunteered work for UNDP, designed and created an Elementor custom widget, to increase efficiency for site maintainer when creating dashboards tabs effortlessly. <br />
 [Elementor custom widget](https://github.com/MingSheng92/Elementor-Tableau-Widget) <br />
 [Site](https://data.undp.org/country/moldova/) <br />
 
 #### Landing page, online store, and admin Panel for a local bakery supply store. 
-[Landing page](https://www.mymringredient.com/)  
-[Online Ordering App](https://store.mymringredient.com/)  
 Proof of concept where a fully functional progressive web app to increase online audience conversion rate, and to provide better online shopping experience during the pandemic.
 Hosted with serverless platform, written with React framework, material ui for frontend components and react-redux for global state management, paired with react-helmet for SEO.    
 Check out the [demo repository](https://github.com/MingSheng92/LocalRetailStoreProject/blob/main/README.md) for full break down. 
-
-[Image Classification](https://github.com/MingSheng92/Image_Classification)  
-Image classification library with 3 different machine learning algorithms with comparison.
-
-[Deep Stacked Autoencoders Recommender System](https://github.com/MingSheng92/RecommenderSystem)  
-Led a research project on recommender system with Deep stacked autoencoders in tensorflow.
-
-[Visualization Challenge](https://github.com/MingSheng92/VisualizationChallenge)  
-To create various visualization with raw datas with PowerBI/Python/Tebleau
 
 ➡️ [For more projects feel free to check out my public repositories...](https://github.com/MingSheng92?tab=repositories)
 
 
 [website]: https://mingsheng92.github.io/
 [linkedin]: https://www.linkedin.com/in/ming-sheng-choo-91712691/
-[ReactLearning]: https://cming0721.medium.com/
